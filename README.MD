@@ -29,4 +29,4 @@ To view the website locally, follow these steps:
 
 Clone the repository:git clone https://github.com/VishuSwastik/PUMA-LANDING-PAGE.git
 
-hosting link :
+hosting link :https://vishuswastik.github.io/PUMA-LANDING-PAGE/
